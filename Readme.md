@@ -65,3 +65,5 @@ pip install -e .
 
 build your own package commands-
 python setup.py sdist bdist_wheel
+
+jupyter-lab notebooks/  ## to open jupyter in notebooks folder
