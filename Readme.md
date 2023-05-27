@@ -48,3 +48,6 @@ stages :
 data_load --> data_split --> train_and_evaluate
 
 dvc repro
+
+dvc params diff
+dvc metrics show
