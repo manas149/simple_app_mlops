@@ -38,4 +38,4 @@ git remote add origin https://github.com/manas149/simple_app_mlops.git
 
 git branch -M main  ## rename master to main
 
-git push -u origin main
+git push origin main
