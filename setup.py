@@ -6,5 +6,5 @@ setup(
     description="its a wine Q package", 
     author="manas149", 
     packages=find_packages(),
-    license="MIT"
+    license="MIT",
 )
